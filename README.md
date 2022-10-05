@@ -1,6 +1,6 @@
-# webpack-init-config
+# TODO App
 
-Simple Webpack Template
+Simple TODO app with JS Classes
 
 # Install dependencies
 

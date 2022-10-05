@@ -1,6 +1,6 @@
 {
   "name": "webpack-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack Template",
   "main": "index.js",
   "scripts": {
